@@ -1,1 +1,8 @@
+com/bibliotheque/Livre.class
+com/bibliotheque/GestionLibrairie.class
+com/bibliotheque/Auteur.class
+com/bibliotheque/Genre.class
 com/bibliotheque/App.class
+com/bibliotheque/LivresAuteurs.class
+com/bibliotheque/Utilisateur.class
+com/bibliotheque/Emprunt.class

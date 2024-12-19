@@ -1,1 +1,8 @@
-/home/moiseal/Full-stack/Back-end/Java/gestion-bibliotheque/src/main/java/com/bibliotheque/App.java
+/home/moiseal/Full-stack/Back-end/Java/BookCollectJDBC/gestion-bibliotheque/src/main/java/com/bibliotheque/Genre.java
+/home/moiseal/Full-stack/Back-end/Java/BookCollectJDBC/gestion-bibliotheque/src/main/java/com/bibliotheque/Utilisateur.java
+/home/moiseal/Full-stack/Back-end/Java/BookCollectJDBC/gestion-bibliotheque/src/main/java/com/bibliotheque/Emprunt.java
+/home/moiseal/Full-stack/Back-end/Java/BookCollectJDBC/gestion-bibliotheque/src/main/java/com/bibliotheque/Auteur.java
+/home/moiseal/Full-stack/Back-end/Java/BookCollectJDBC/gestion-bibliotheque/src/main/java/com/bibliotheque/GestionLibrairie.java
+/home/moiseal/Full-stack/Back-end/Java/BookCollectJDBC/gestion-bibliotheque/src/main/java/com/bibliotheque/Livre.java
+/home/moiseal/Full-stack/Back-end/Java/BookCollectJDBC/gestion-bibliotheque/src/main/java/com/bibliotheque/LivresAuteurs.java
+/home/moiseal/Full-stack/Back-end/Java/BookCollectJDBC/gestion-bibliotheque/src/main/java/com/bibliotheque/App.java
