@@ -34,5 +34,18 @@ Le projet est **encore en développement** et n'est pas encore terminé. Il peut
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/BooKCollect.git
+   git clone git@github.com:IrALm/BookCollectJDBC.git
    cd BooKCollect
+2. Lancez l'éxecution avec Maven :
+   mvn exec:java
+### Structure du projet 
+
+BooKCollect/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   ├── resources/
+│   └── test/
+├── pom.xml
+└── README.md
+
